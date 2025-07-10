@@ -19,10 +19,4 @@ Desarrollado con Node.js, Express y MongoDB, incluye autenticación con JWT, rol
 
 ---
 
-## 🔧 Instalación
 
-1. Clonar el repositorio:
-
-```bash
-git clone https://github.com/tu-usuario/barritos-bikes-backend.git
-cd barritos-bikes-backend

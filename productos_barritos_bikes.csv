@@ -1,0 +1,101 @@
+nombre,descripcion,categoria,precio,stock,destacado
+Bicicleta de Montaña XC Pro #1,"Cuadro de aluminio, suspensión delantera RockShox, frenos hidráulicos",bicicletas,1202,6,True
+Bicicleta Urbana Rodado 28 #1,"Diseño cómodo para ciudad, con portaequipaje y luces LED",bicicletas,752,9,False
+Casco MTB Trail #1,"Casco liviano, con ventilación y certificación CE",accesorios,87,21,False
+Inflador de Pie con Manómetro #1,"Compatible con válvula presta y schrader, ideal para MTB",accesorios,37,41,False
+Cadena Shimano HG40 6/7/8v #1,Compatible con transmisiones MTB y urbanas,repuestos,21,51,False
+Cubierta Kenda 29x2.1 MTB #1,Diseño mixto para tracción y velocidad en terrenos variados,repuestos,47,26,True
+Guantes Ciclismo Verano #1,Con gel antivibración y tejido respirable,accesorios,24,36,False
+Bicicleta Ruta Carbono R9000 #1,"Cuadro de carbono, Shimano 105 11v, ruedas aero",bicicletas,2302,4,True
+Sillín Gel Confort #1,"Ideal para cicloturismo y MTB, con sistema de amortiguación",accesorios,41,16,False
+Multiherramienta 18 en 1 #1,Ideal para reparaciones en ruta o montaña,accesorios,31,31,False
+Bicicleta de Montaña XC Pro #2,"Cuadro de aluminio, suspensión delantera RockShox, frenos hidráulicos",bicicletas,1204,7,True
+Bicicleta Urbana Rodado 28 #2,"Diseño cómodo para ciudad, con portaequipaje y luces LED",bicicletas,754,10,False
+Casco MTB Trail #2,"Casco liviano, con ventilación y certificación CE",accesorios,89,22,False
+Inflador de Pie con Manómetro #2,"Compatible con válvula presta y schrader, ideal para MTB",accesorios,39,42,False
+Cadena Shimano HG40 6/7/8v #2,Compatible con transmisiones MTB y urbanas,repuestos,23,52,False
+Cubierta Kenda 29x2.1 MTB #2,Diseño mixto para tracción y velocidad en terrenos variados,repuestos,49,27,True
+Guantes Ciclismo Verano #2,Con gel antivibración y tejido respirable,accesorios,26,37,False
+Bicicleta Ruta Carbono R9000 #2,"Cuadro de carbono, Shimano 105 11v, ruedas aero",bicicletas,2304,5,True
+Sillín Gel Confort #2,"Ideal para cicloturismo y MTB, con sistema de amortiguación",accesorios,43,17,False
+Multiherramienta 18 en 1 #2,Ideal para reparaciones en ruta o montaña,accesorios,33,32,False
+Bicicleta de Montaña XC Pro #3,"Cuadro de aluminio, suspensión delantera RockShox, frenos hidráulicos",bicicletas,1206,8,True
+Bicicleta Urbana Rodado 28 #3,"Diseño cómodo para ciudad, con portaequipaje y luces LED",bicicletas,756,11,False
+Casco MTB Trail #3,"Casco liviano, con ventilación y certificación CE",accesorios,91,23,False
+Inflador de Pie con Manómetro #3,"Compatible con válvula presta y schrader, ideal para MTB",accesorios,41,43,False
+Cadena Shimano HG40 6/7/8v #3,Compatible con transmisiones MTB y urbanas,repuestos,25,53,False
+Cubierta Kenda 29x2.1 MTB #3,Diseño mixto para tracción y velocidad en terrenos variados,repuestos,51,28,True
+Guantes Ciclismo Verano #3,Con gel antivibración y tejido respirable,accesorios,28,38,False
+Bicicleta Ruta Carbono R9000 #3,"Cuadro de carbono, Shimano 105 11v, ruedas aero",bicicletas,2306,6,True
+Sillín Gel Confort #3,"Ideal para cicloturismo y MTB, con sistema de amortiguación",accesorios,45,18,False
+Multiherramienta 18 en 1 #3,Ideal para reparaciones en ruta o montaña,accesorios,35,33,False
+Bicicleta de Montaña XC Pro #4,"Cuadro de aluminio, suspensión delantera RockShox, frenos hidráulicos",bicicletas,1208,9,True
+Bicicleta Urbana Rodado 28 #4,"Diseño cómodo para ciudad, con portaequipaje y luces LED",bicicletas,758,12,False
+Casco MTB Trail #4,"Casco liviano, con ventilación y certificación CE",accesorios,93,24,False
+Inflador de Pie con Manómetro #4,"Compatible con válvula presta y schrader, ideal para MTB",accesorios,43,44,False
+Cadena Shimano HG40 6/7/8v #4,Compatible con transmisiones MTB y urbanas,repuestos,27,54,False
+Cubierta Kenda 29x2.1 MTB #4,Diseño mixto para tracción y velocidad en terrenos variados,repuestos,53,29,True
+Guantes Ciclismo Verano #4,Con gel antivibración y tejido respirable,accesorios,30,39,False
+Bicicleta Ruta Carbono R9000 #4,"Cuadro de carbono, Shimano 105 11v, ruedas aero",bicicletas,2308,7,True
+Sillín Gel Confort #4,"Ideal para cicloturismo y MTB, con sistema de amortiguación",accesorios,47,19,False
+Multiherramienta 18 en 1 #4,Ideal para reparaciones en ruta o montaña,accesorios,37,34,False
+Bicicleta de Montaña XC Pro #5,"Cuadro de aluminio, suspensión delantera RockShox, frenos hidráulicos",bicicletas,1210,10,True
+Bicicleta Urbana Rodado 28 #5,"Diseño cómodo para ciudad, con portaequipaje y luces LED",bicicletas,760,13,False
+Casco MTB Trail #5,"Casco liviano, con ventilación y certificación CE",accesorios,95,25,False
+Inflador de Pie con Manómetro #5,"Compatible con válvula presta y schrader, ideal para MTB",accesorios,45,45,False
+Cadena Shimano HG40 6/7/8v #5,Compatible con transmisiones MTB y urbanas,repuestos,29,55,False
+Cubierta Kenda 29x2.1 MTB #5,Diseño mixto para tracción y velocidad en terrenos variados,repuestos,55,30,True
+Guantes Ciclismo Verano #5,Con gel antivibración y tejido respirable,accesorios,32,40,False
+Bicicleta Ruta Carbono R9000 #5,"Cuadro de carbono, Shimano 105 11v, ruedas aero",bicicletas,2310,8,True
+Sillín Gel Confort #5,"Ideal para cicloturismo y MTB, con sistema de amortiguación",accesorios,49,20,False
+Multiherramienta 18 en 1 #5,Ideal para reparaciones en ruta o montaña,accesorios,39,35,False
+Bicicleta de Montaña XC Pro #6,"Cuadro de aluminio, suspensión delantera RockShox, frenos hidráulicos",bicicletas,1212,11,True
+Bicicleta Urbana Rodado 28 #6,"Diseño cómodo para ciudad, con portaequipaje y luces LED",bicicletas,762,14,False
+Casco MTB Trail #6,"Casco liviano, con ventilación y certificación CE",accesorios,97,26,False
+Inflador de Pie con Manómetro #6,"Compatible con válvula presta y schrader, ideal para MTB",accesorios,47,46,False
+Cadena Shimano HG40 6/7/8v #6,Compatible con transmisiones MTB y urbanas,repuestos,31,56,False
+Cubierta Kenda 29x2.1 MTB #6,Diseño mixto para tracción y velocidad en terrenos variados,repuestos,57,31,True
+Guantes Ciclismo Verano #6,Con gel antivibración y tejido respirable,accesorios,34,41,False
+Bicicleta Ruta Carbono R9000 #6,"Cuadro de carbono, Shimano 105 11v, ruedas aero",bicicletas,2312,9,True
+Sillín Gel Confort #6,"Ideal para cicloturismo y MTB, con sistema de amortiguación",accesorios,51,21,False
+Multiherramienta 18 en 1 #6,Ideal para reparaciones en ruta o montaña,accesorios,41,36,False
+Bicicleta de Montaña XC Pro #7,"Cuadro de aluminio, suspensión delantera RockShox, frenos hidráulicos",bicicletas,1214,12,True
+Bicicleta Urbana Rodado 28 #7,"Diseño cómodo para ciudad, con portaequipaje y luces LED",bicicletas,764,15,False
+Casco MTB Trail #7,"Casco liviano, con ventilación y certificación CE",accesorios,99,27,False
+Inflador de Pie con Manómetro #7,"Compatible con válvula presta y schrader, ideal para MTB",accesorios,49,47,False
+Cadena Shimano HG40 6/7/8v #7,Compatible con transmisiones MTB y urbanas,repuestos,33,57,False
+Cubierta Kenda 29x2.1 MTB #7,Diseño mixto para tracción y velocidad en terrenos variados,repuestos,59,32,True
+Guantes Ciclismo Verano #7,Con gel antivibración y tejido respirable,accesorios,36,42,False
+Bicicleta Ruta Carbono R9000 #7,"Cuadro de carbono, Shimano 105 11v, ruedas aero",bicicletas,2314,10,True
+Sillín Gel Confort #7,"Ideal para cicloturismo y MTB, con sistema de amortiguación",accesorios,53,22,False
+Multiherramienta 18 en 1 #7,Ideal para reparaciones en ruta o montaña,accesorios,43,37,False
+Bicicleta de Montaña XC Pro #8,"Cuadro de aluminio, suspensión delantera RockShox, frenos hidráulicos",bicicletas,1216,13,True
+Bicicleta Urbana Rodado 28 #8,"Diseño cómodo para ciudad, con portaequipaje y luces LED",bicicletas,766,16,False
+Casco MTB Trail #8,"Casco liviano, con ventilación y certificación CE",accesorios,101,28,False
+Inflador de Pie con Manómetro #8,"Compatible con válvula presta y schrader, ideal para MTB",accesorios,51,48,False
+Cadena Shimano HG40 6/7/8v #8,Compatible con transmisiones MTB y urbanas,repuestos,35,58,False
+Cubierta Kenda 29x2.1 MTB #8,Diseño mixto para tracción y velocidad en terrenos variados,repuestos,61,33,True
+Guantes Ciclismo Verano #8,Con gel antivibración y tejido respirable,accesorios,38,43,False
+Bicicleta Ruta Carbono R9000 #8,"Cuadro de carbono, Shimano 105 11v, ruedas aero",bicicletas,2316,11,True
+Sillín Gel Confort #8,"Ideal para cicloturismo y MTB, con sistema de amortiguación",accesorios,55,23,False
+Multiherramienta 18 en 1 #8,Ideal para reparaciones en ruta o montaña,accesorios,45,38,False
+Bicicleta de Montaña XC Pro #9,"Cuadro de aluminio, suspensión delantera RockShox, frenos hidráulicos",bicicletas,1218,14,True
+Bicicleta Urbana Rodado 28 #9,"Diseño cómodo para ciudad, con portaequipaje y luces LED",bicicletas,768,17,False
+Casco MTB Trail #9,"Casco liviano, con ventilación y certificación CE",accesorios,103,29,False
+Inflador de Pie con Manómetro #9,"Compatible con válvula presta y schrader, ideal para MTB",accesorios,53,49,False
+Cadena Shimano HG40 6/7/8v #9,Compatible con transmisiones MTB y urbanas,repuestos,37,59,False
+Cubierta Kenda 29x2.1 MTB #9,Diseño mixto para tracción y velocidad en terrenos variados,repuestos,63,34,True
+Guantes Ciclismo Verano #9,Con gel antivibración y tejido respirable,accesorios,40,44,False
+Bicicleta Ruta Carbono R9000 #9,"Cuadro de carbono, Shimano 105 11v, ruedas aero",bicicletas,2318,12,True
+Sillín Gel Confort #9,"Ideal para cicloturismo y MTB, con sistema de amortiguación",accesorios,57,24,False
+Multiherramienta 18 en 1 #9,Ideal para reparaciones en ruta o montaña,accesorios,47,39,False
+Bicicleta de Montaña XC Pro #10,"Cuadro de aluminio, suspensión delantera RockShox, frenos hidráulicos",bicicletas,1220,15,True
+Bicicleta Urbana Rodado 28 #10,"Diseño cómodo para ciudad, con portaequipaje y luces LED",bicicletas,770,18,False
+Casco MTB Trail #10,"Casco liviano, con ventilación y certificación CE",accesorios,105,30,False
+Inflador de Pie con Manómetro #10,"Compatible con válvula presta y schrader, ideal para MTB",accesorios,55,50,False
+Cadena Shimano HG40 6/7/8v #10,Compatible con transmisiones MTB y urbanas,repuestos,39,60,False
+Cubierta Kenda 29x2.1 MTB #10,Diseño mixto para tracción y velocidad en terrenos variados,repuestos,65,35,True
+Guantes Ciclismo Verano #10,Con gel antivibración y tejido respirable,accesorios,42,45,False
+Bicicleta Ruta Carbono R9000 #10,"Cuadro de carbono, Shimano 105 11v, ruedas aero",bicicletas,2320,13,True
+Sillín Gel Confort #10,"Ideal para cicloturismo y MTB, con sistema de amortiguación",accesorios,59,25,False
+Multiherramienta 18 en 1 #10,Ideal para reparaciones en ruta o montaña,accesorios,49,40,False
